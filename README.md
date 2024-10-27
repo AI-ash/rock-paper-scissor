@@ -9,7 +9,7 @@ This project, **RPS** (Rock-paper-scissor), is a game program using basic of pyt
 
 ## Installation
 - go to rps.py file and run it.
-- 
+  
 ### Requirements
 - Python (any latest version)
 - getpass module
