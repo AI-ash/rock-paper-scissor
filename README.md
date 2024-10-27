@@ -18,3 +18,6 @@ This project, **RPS** (Rock-paper-scissor), is a game program using basic of pyt
 1. Clone this repository:
    ```bash
    git clone https://github.com/AI-ash/rock-paper-scissor.git
+
+
+### Thank you for your visit
